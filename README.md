@@ -108,9 +108,17 @@ plot2d3(1:length(r), r);
 
 ---
 
+### Tabulation:
+
+<img width="553" height="767" alt="image" src="https://github.com/user-attachments/assets/1dda981b-b6ba-4829-a13d-749bed52e96c" />
+
+---
+
 ### Calculation:
 
-adsaffd
+<img width="493" height="825" alt="image" src="https://github.com/user-attachments/assets/9f76953f-1785-4cc9-8921-9cab88da55bb" />
+
+<img width="468" height="734" alt="image" src="https://github.com/user-attachments/assets/99dde90c-9e2d-4b3c-bb52-a4b131ab6bd6" />
 
 ---
 
